@@ -55,4 +55,9 @@ a {
     text-decoration: none; /* Remove underline */
     color: #184AA0; /* Set link color */
 }
+/* Add this to your existing CSS file or in a <style> tag within the <head> section */
+.centered-sentence {
+    text-align: center;
+}
+
 
