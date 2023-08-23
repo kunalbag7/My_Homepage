@@ -18,6 +18,13 @@ body {
     text-align: center;
     padding: 100px;
 }
+/* Style for the image */
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #333;
+    margin: 10px 0;
+}
 
 /* Style for the name */
 h1 {
