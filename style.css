@@ -30,9 +30,9 @@ body{
   font-weight: 100;
 }
 .box p{
-    font-size: 10px;
-  letter-spacing: 3px;
-  font-weight: 100;
+    font-size: 13px;
+  letter-spacing: 5px;
+/*   font-weight: 100; */
 /*   text-align: justify; */
 }
 ul{
