@@ -50,3 +50,9 @@ ul{
 .box li a:hover{
   color: #b9b9b9;
 }
+/* Add this to your existing CSS file or in a <style> tag within the <head> section */
+a {
+    text-decoration: none; /* Remove underline */
+    color: #007bff; /* Set link color */
+}
+
