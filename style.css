@@ -1,0 +1,28 @@
+/* Reset default margin and padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Style for the container */
+.container {
+    text-align: center;
+    padding: 100px;
+}
+
+/* Style for the name */
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+/* Style for the educational status */
+p {
+    font-size: 18px;
+}
