@@ -29,8 +29,8 @@ img {
 /* Add this to your existing CSS file or in a <style> tag within the <head> section */
 .corner-image {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 20px;
+    left: 20px;
 }
 
 
