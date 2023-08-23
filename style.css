@@ -26,6 +26,14 @@ img {
     margin: 10px 0;
 }
 
+/* Add this to your existing CSS file or in a <style> tag within the <head> section */
+.corner-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
 /* Style for the name */
 h1 {
     font-size: 40px;
